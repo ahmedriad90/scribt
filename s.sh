@@ -6,12 +6,13 @@ wget -O /var/volatile/tmp/scriptahmeriad.tar.gz "https://raw.githubusercontent.c
 echo ""
 # Download and install plugin
 cd /tmp
-set -e
+set +e
 echo "===> Downloading And Installing  script Please Wait ......"
 echo
 tar -xzf scriptahmeriad.tar.gz -C /
-set +e
+
 rm -f scriptahmeriad.tar.gz
+
 
 echo ""
 sync
