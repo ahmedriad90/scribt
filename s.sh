@@ -1,7 +1,7 @@
 ﻿#!/bin/sh
 #
 
-wget -O /var/volatile/tmp/script-ahmeriad.tar.gz "https://drive.google.com/uc?export=download&id=1Md-PV7X2wpDnuNxrHxI0_DdyYfAXeyX2"
+wget -O /var/volatile/tmp/scriptahmeriad.tar.gz "https://drive.google.com/uc?export=download&id=1I9U4_WJq2_E6zHkDOkZV2m5h1hz54R7W"
 
 echo ""
 # Download and install plugin
@@ -9,15 +9,15 @@ cd /tmp
 set -e
 echo "===> Downloading And Installing  script Please Wait ......"
 echo
-tar -xzf script-ahmeriad.tar.gz -C /
+tar -xzf scriptahmeriad.tar.gz -C /
 set +e
-rm -f script-ahmeriad.tar.gz
+rm -f scriptahmeriad.tar.gz
 
 echo ""
 sync
 echo "##############################################################"
 echo "#         script INSTALLED SUCCESSFULLY             #"
-echo "#             UPLOADED BY ahmed riad                #"
+echo "#             UPLOADED BY AHMED RIAD                #"
 echo "##############################################################"
 echo "**************************************************************"
 echo "##############################################################"
