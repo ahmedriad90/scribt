@@ -1,7 +1,7 @@
 ﻿#!/bin/sh
 #
 
-wget -O /var/volatile/tmp/scriptahmeriad.tar.gz "https://drive.google.com/uc?export=download&id=1I9U4_WJq2_E6zHkDOkZV2m5h1hz54R7W"
+wget -O /var/volatile/tmp/scriptahmeriad.tar.gz "https://raw.githubusercontent.com/ahmedriad90/scribt/main/scriptahmeriad.tar.gz"
 
 echo ""
 # Download and install plugin
