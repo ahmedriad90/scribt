@@ -1,12 +1,9 @@
 ﻿#!/bin/sh
-##setup command=wget wget https://raw.githubusercontent.com/ahmedriad90/scribt/main/s.sh -O - | /bin/sh 
-
-version=1.0
-
+##
 
 
 cd /tmp
-rm -f *scriptahmeriad*
+rm -f scriptahmeriad.tar.gz
 # Download new version
 wget "https://doc-0o-0s-docs.googleusercontent.com/docs/securesc/lqlqhcrp1i4vs2hin58ud9ouedr4epp3/4i3e8pl5voq6vsqap2ucset2bs6snspi/1643551425000/03860807689812204033/03860807689812204033/1I9U4_WJq2_E6zHkDOkZV2m5h1hz54R7W?e=download&authuser=0&nonce=arcfuffmdo2l8&user=03860807689812204033&hash=dagqtderkdmua4hmq7suesjhql3i6q8t"
 
