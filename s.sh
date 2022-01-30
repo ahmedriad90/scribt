@@ -1,7 +1,7 @@
 ﻿#!/bin/sh
 #
 
-wget -O /var/volatile/tmp/script-ahmeriad.tar.gz "https://drive.google.com/file/d/1TB8Q7x1E1Fhvt84ETVtpWzw6Jpg5ik14/view?usp=sharing"
+wget -O /var/volatile/tmp/script-ahmeriad.tar.gz "https://doc-0c-0s-docs.googleusercontent.com/docs/securesc/lqlqhcrp1i4vs2hin58ud9ouedr4epp3/5h6361rp7udre4e21vfc3m7slga039r8/1643546100000/03860807689812204033/03860807689812204033/1Md-PV7X2wpDnuNxrHxI0_DdyYfAXeyX2?e=download&authuser=0"
 
 echo ""
 # Download and install plugin
